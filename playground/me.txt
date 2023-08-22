@@ -1,3 +1,0 @@
-Name: Jeet Kumar
-Skills: C++,DSA, HTML, CSS, SQL, RDBMS
-Email" jeetroy1336@gmail.com
